@@ -1,7 +1,7 @@
 {
   "fnmods_update": [
     {
- "version":"UPDATE TERSEDIA",
+ "version":"9.64",
  "title":"Update Available",
  "description":"Update RGWhatsApp V1.3.2
 
