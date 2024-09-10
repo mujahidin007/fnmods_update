@@ -1,1 +1,13 @@
-Sudah Terbaru
+{
+  "fnmods_update": [
+    {
+ "version":"UPDATE TERSEDIA",
+ "title":"Update Available",
+ "description":"Update RGWhatsApp V1.3.2
+
+Base: 2.23 11.76
+ ",
+"download":"https://youtube.com/@ReGionMod"
+}
+  ]
+}
