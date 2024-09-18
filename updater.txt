@@ -3,7 +3,9 @@
     {
  "version":"𝗨𝗽𝗱𝗮𝘁𝗲 𝗥𝗚𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝘃𝟭.𝟮.𝟮",
  "title":"RGWhatsApp Sudah Terbaru",
- "description":"Update RGWhatsApp V1.2.5
+ "description":"Update Now
+- eliminate bugs
+- remove viruses
 
 Base: 2.24 11.79
  ",
