@@ -10,7 +10,7 @@
 
 Base: 2.24 11.79
  ",
-"download":"https://youtube.com/@ReGionMod"
+"download":"https://youtu.be/8ZXiVHJpn44?si=YerahEbkdn3AYmjp"
 }
   ]
 }
