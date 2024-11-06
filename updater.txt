@@ -2,7 +2,7 @@
   "fnmods_update": [
     {
  "version":"𝗟𝗔𝗧𝗘𝗦𝗧 𝗨𝗣𝗗𝗔𝗧𝗘
-𝗥𝗚𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝘃𝟭.𝟯.𝟬𝗘",
+𝗥𝗚𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝘃𝟭.𝟯.𝟱",
  "title":"RGWhatsApp Sudah Terbaru",
  "description":"Update Now
 
@@ -21,7 +21,7 @@ Base: 2.24 16.76
 
 Link On YouTube
  ",
-"download":"https://youtu.be/zkWwtIiTYxo"
+"download":"https://youtu.be/gVOSXe-pHr8?si=by1_DB-wD0zO74vF"
 }
   ]
 }
